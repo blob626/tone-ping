@@ -1,0 +1,11 @@
+turns ping times into sound
+
+Just for fun to listen at what my computer is doing.
+Eventually I would like to play more intricate tunes, that adapt to the ping, but this is functional for now.
+
+* Useage
+./tone-ping.sh URL
+
+* Dependencies
+requires [[http://sox.sourceforge.net/][SoX]]
+
