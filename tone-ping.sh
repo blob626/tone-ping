@@ -39,7 +39,7 @@ function sound ()
 
 function errsound ()
 {
-    $PLAY -q -n synth 1.5 brown 80 fade q 0.2 1.5 0.2 loudness -20 &
+    $PLAY -q -n synth 1.7 brown 80 fade q 0.2 1.7 0.2 loudness -30 &
 }
 
 while :
